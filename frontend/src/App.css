@@ -1,0 +1,17 @@
+.App {
+  min-height: 100vh;
+  background-color: #070a12;
+}
+
+section[id] {
+  scroll-margin-top: 5rem;
+}
+
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-14px); }
+}
+
+.animate-float-slow {
+  animation: float-slow 7s ease-in-out infinite;
+}

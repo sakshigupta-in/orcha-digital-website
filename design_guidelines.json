@@ -1,0 +1,171 @@
+{
+  "identity_and_theme": {
+    "brand_name": "ORCHA DIGITAL",
+    "tagline": "Ideas | Content | Growth",
+    "headline": "Your Digital Growth Partner",
+    "subtitle": "Creative Ideas. Strategic Content. Real Results.",
+    "aesthetic": "Premium Dark Cinematic Navy UI with electric-blue (#00E5FF / #38BDF8) and vibrant electric-red (#FF3366) accents, glowing micro-borders, deep z-depth visual layers, and sharp editorial typography.",
+    "theme_mode": "dark",
+    "background_base": "#070A12",
+    "card_background": "rgba(14, 23, 42, 0.75)",
+    "glass_background": "rgba(11, 17, 32, 0.85)"
+  },
+  "typography": {
+    "heading_font": "Outfit, sans-serif (or Syne / Space Grotesk fallback)",
+    "body_font": "Plus Jakarta Sans, sans-serif",
+    "h1_hero": "text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-[1.1]",
+    "h2_section": "text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-white",
+    "h3_card": "text-xl sm:text-2xl font-semibold text-slate-100",
+    "body_text": "text-base text-slate-300 leading-relaxed",
+    "overline_label": "text-xs font-bold uppercase tracking-[0.2em] text-[#00E5FF]"
+  },
+  "color_palette": {
+    "dark_bg_primary": "#070A12",
+    "dark_bg_secondary": "#0B1120",
+    "dark_card_bg": "#0F172A",
+    "electric_blue_primary": "#00E5FF",
+    "electric_blue_glow": "rgba(0, 229, 255, 0.25)",
+    "electric_red_accent": "#FF3366",
+    "electric_red_glow": "rgba(255, 51, 102, 0.25)",
+    "text_primary": "#F8FAFC",
+    "text_secondary": "#94A3B8",
+    "text_muted": "#64748B",
+    "border_subtle": "rgba(56, 189, 248, 0.12)",
+    "border_highlight": "rgba(0, 229, 255, 0.4)"
+  },
+  "layout_and_spacing": {
+    "section_padding": "py-20 lg:py-28 px-4 sm:px-6 lg:px-12 max-w-7xl mx-auto",
+    "grid_bento": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8",
+    "card_padding": "p-6 sm:p-8",
+    "header_height": "h-20",
+    "z_index_header": "z-50",
+    "z_index_modal": "z-[100]"
+  },
+  "image_urls": {
+    "hero_background": "https://images.unsplash.com/photo-1684503830679-302965124d97?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHwyfHxkYXJrJTIwbmF2eSUyMGRpZ2l0YWwlMjBuZW9uJTIwYWdlbmN5JTIwYWJzdHJhY3QlMjB0ZWNobm9sb2d5JTIwYmFja2dyb3VuZHxlbnwwfHx8fDE3OTE2MDU2MjV8MA&ixlib=rb-4.1.0&q=85",
+    "about_studio": "https://images.unsplash.com/photo-1637250051543-9fca17abf411?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzV8MHwxfHNlYXJjaHw0fHxkYXJrJTIwbW9kZXJuJTIwY3JlYXRpdmUlMjBzdHVkaW8lMjBhZ2VuY3klMjB3b3JrcGxhY2UlMjBicmFuZGluZyUyMHZpZGVvJTIwcHJvZHVjdGlvbnxlbnwwfHx8fDE3OTE2MDU2MjV8MA&ixlib=rb-4.1.0&q=85",
+    "about_creative_work": "https://images.unsplash.com/photo-1601506521937-0121a7fc2a6b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzV8MHwxfHNlYXJjaHwxfHxkYXJrJTIwbW9kZXJuJTIwY3JlYXRpdmUlMjBzdHVkaW8lMjBhZ2VuY3klMjB3b3JrcGxhY2UlMjBicmFuZGluZyUyMHZpZGVvJTIwcHJvZHVjdGlvbnxlbnwwfHx8fDE3OTE2MDU2MjV8MA&ixlib=rb-4.1.0&q=85",
+    "portfolio_branding": "https://images.unsplash.com/photo-1633793566063-52465a148cc7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTB8MHwxfHNlYXJjaHwyfHxkYXJrJTIwYnJhbmRpbmclMjBtb2NrdXAlMjBzb2NpYWwlMjBtZWRpYSUyMHdlYiUyMGRlc2lnbiUyMHBvcnRmb2xpb3xlbnwwfHx8fDE3OTE2MDU2MzN8MA&ixlib=rb-4.1.0&q=85",
+    "portfolio_skincare_branding": "https://images.unsplash.com/photo-1633793565780-deeea84f167b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTB8MHwxfHNlYXJjaHwxfHxkYXJrJTIwYnJhbmRpbmclMjBtb2NrdXAlMjBzb2NpYWwlMjBtZWRpYSUyMHdlYiUyMGRlc2lnbiUyMHBvcnRmb2xpb3xlbnwwfHx8fDE3OTE2MDU2MzN8MA&ixlib=rb-4.1.0&q=85",
+    "portfolio_luxury_cosmetics": "https://images.unsplash.com/photo-1633793566023-a74b74104acb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTB8MHwxfHNlYXJjaHwzfHxkYXJrJTIwYnJhbmRpbmclMjBtb2NrdXAlMjBzb2NpYWwlMjBtZWRpYSUyMHdlYiUyMGRlc2lnbiUyMHBvcnRmb2xpb3xlbnwwfHx8fDE3OTE2MDU2MzN8MA&ixlib=rb-4.1.0&q=85",
+    "portfolio_minimal_tubes": "https://images.unsplash.com/photo-1633793565865-4aa4af4d5ca3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTB8MHwxfHNlYXJjaHw0fHxkYXJrJTIwYnJhbmRpbmclMjBtb2NrdXAlMjBzb2NpYWwlMjBtZWRpYSUyMHdlYiUyMGRlc2lnbiUyMHBvcnRmb2xpb3xlbnwwfHx8fDE3OTE2MDU2MzN8MA&ixlib=rb-4.1.0&q=85",
+    "portfolio_studio_workspace": "https://images.unsplash.com/photo-1621111848501-8d3634f82336?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzV8MHwxfHNlYXJjaHwyfHxkYXJrJTIwbW9kZXJuJTIwY3JlYXRpdmUlMjBzdHVkaW8lMjBhZ2VuY3klMjB3b3JrcGxhY2UlMjBicmFuZGluZyUyMHZpZGVvJTIwcHJvZHVjdGlvbnxlbnwwfHx8fDE3OTE2MDU2MjV8MA&ixlib=rb-4.1.0&q=85",
+    "texture_lines": "https://images.unsplash.com/photo-1688413708965-d4a7d3b0cc90?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHw0fHxkYXJrJTIwbmF2eSUyMGRpZ2l0YWwlMjBuZW9uJTIwYWdlbmN5JTIwYWJzdHJhY3QlMjB0ZWNobm9sb2d5JTIwYmFja2dyb3VuZHxlbnwwfHx8fDE3OTE2MDU2MjV8MA&ixlib=rb-4.1.0&q=85"
+  },
+  "sections_required": [
+    {
+      "id": "header",
+      "name": "Navigation Bar",
+      "components": ["Logo with tagline badge", "Desktop Nav Links (Home, About, Services, Portfolio, Why Us, Packages, Contact)", "Primary CTA Button 'Book Consultation'", "Mobile Hamburger Drawer Toggle"]
+    },
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "components": ["Eyebrow Pill 'IDEAS | CONTENT | GROWTH'", "H1 Headline 'Your Digital Growth Partner'", "Subtitle 'Creative Ideas. Strategic Content. Real Results.'", "Primary CTA 'Enquire Now'", "Secondary CTA 'View Portfolio'", "Key Metric Badges (50+ Campaigns, 98% Client Satisfaction, 3.5x Avg ROI)"]
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "components": ["Agency background story", "Creative ethos", "Location spotlight (Indore, MP, India)", "Interactive stats counter cards"]
+    },
+    {
+      "id": "services",
+      "name": "Services (9 Core Services)",
+      "items": [
+        "Social Media Management",
+        "Graphic Design",
+        "Video Editing",
+        "Social Media Advertising",
+        "Social Media Strategy",
+        "Website/Landing Page",
+        "SEO & Google Marketing",
+        "Branding & Identity",
+        "Content Writing"
+      ],
+      "interaction": "Each card has description, feature list, and an 'Enquire Service' button that opens the enquiry modal with pre-selected service title."
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio Grid",
+      "disclaimer": "All projects are honestly labeled as CONCEPT WORK",
+      "categories": ["All", "Branding", "Social Media", "Video", "Website"],
+      "interaction": "Interactive tab filtering and detailed lightbox view per concept project."
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us (6 Pillars)",
+      "pillars": [
+        "Business-First Strategy",
+        "Deep Audience Understanding",
+        "Creative Problem-Solving",
+        "Signature Brand Identity",
+        "100% Human Creativity",
+        "Complete Digital Management"
+      ]
+    },
+    {
+      "id": "vision-mission",
+      "name": "Vision & Mission",
+      "components": ["Vision Card (Future of Indian Digital Growth)", "Mission Card (Empowering Brands with Content & Strategy)"]
+    },
+    {
+      "id": "process",
+      "name": "Our Process",
+      "steps": [
+        {"step": "01", "name": "PLAN", "desc": "Audience research, positioning, channel mapping & campaign blueprinting."},
+        {"step": "02", "name": "CREATE", "desc": "High-impact design, compelling scripts, video cutting & web development."},
+        {"step": "03", "name": "PUBLISH", "desc": "Omnichannel deployment, ad targeting setup, A/B testing & scheduling."},
+        {"step": "04", "name": "GROW", "desc": "Performance analytics, funnel optimization & continuous scale."}
+      ]
+    },
+    {
+      "id": "packages",
+      "name": "Packages & Pricing",
+      "tiers": [
+        {"name": "STARTER", "price": "₹7,000/month", "tag": "Essential Social & Content"},
+        {"name": "GROWTH", "price": "₹12,000/month", "tag": "Most Popular - Full Organic & Ads"},
+        {"name": "PREMIUM", "price": "₹18,000/month", "tag": "Complete 360 Digital Dominance"}
+      ],
+      "features": ["Feature Comparison Matrix", "Interactive Enquiry trigger per plan"]
+    },
+    {
+      "id": "contact",
+      "name": "Contact & Enquiry",
+      "details": {
+        "location": "Indore, Madhya Pradesh, India",
+        "phone": "+91 98765 43210",
+        "email": "hello@orchadigital.com",
+        "whatsapp": "https://wa.me/919876543210"
+      },
+      "form_fields": ["Full Name", "Email Address", "Phone Number", "Service Required (Dropdown)", "Budget Range", "Project Details / Message"]
+    },
+    {
+      "id": "footer",
+      "name": "Footer",
+      "components": ["Brand Summary & Tagline", "Quick Links", "Services Links", "Indore Address", "Social Media Handles", "Copyright 2026 ORCHA DIGITAL"]
+    }
+  ],
+  "data_testid_policy": {
+    "mandatory": true,
+    "rule": "Every interactive element MUST have a unique kebab-case `data-testid` attribute.",
+    "examples": [
+      "data-testid='nav-logo'",
+      "data-testid='nav-link-services'",
+      "data-testid='hero-cta-enquire-button'",
+      "data-testid='service-card-enquire-social-media-management'",
+      "data-testid='portfolio-filter-branding'",
+      "data-testid='package-card-starter-select'",
+      "data-testid='contact-form-submit-button'",
+      "data-testid='contact-whatsapp-link'"
+    ]
+  },
+  "UNIVERSAL GUIDELINES FOR MAIN AGENT": {
+    "avoid_ai_slop": "Do not use generic gray boxes or standard Bootstrap/Vercel templates. Use deep navy canvas, electric neon glows, sharp grid lines, rich typography, and custom micro-interactions.",
+    "no_emoji_icons": "NEVER use AI assistant emoji characters (🤖🧠💭💡🔮🎯). Use Lucide React icons exclusively.",
+    "color_rules": "DO NOT use dark colors as standard flat gradients. Keep dark navy clean (#070A12 / #0B1120) with subtle radial glowing glows (#00E5FF & #FF3366) and translucent cards with backdrop-blur.",
+    "alignment": "Do NOT add text-align: center globally to the app container. Align text naturally for clear reading hierarchy.",
+    "transitions": "Use explicit CSS transitions on specific properties (e.g. transition-colors, transition-transform) rather than transition-all.",
+    "image_usage": "Only use the curated Unsplash URLs provided in image_urls. Never use placehold.it or via.placeholder.com.",
+    "testing_readiness": "Every button, input, select, link, tab, and card must have a data-testid attribute."
+  }
+}
